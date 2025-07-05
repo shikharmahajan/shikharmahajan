@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shikhar Mahajan</h1>
+<h1 align="center">Namaste 🙏 , I'm Shikhar Mahajan</h1>
 <h3 align="center">Versatile and results-driven DevOps Engineer with experience supporting cloud-native infrastructure and DevOps practices across multiple sectors. Proven expertise in AWS, Terraform, CI/CD, containerization (Docker, Kubernetes), and system monitoring.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikharmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="shikharmahajan" /> </p>
